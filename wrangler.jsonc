@@ -1,6 +1,8 @@
 {
-  "name": "html-tetris-game",
+  "name": "tetris-like",
   "compatibility_date": "2026-06-18",
+  "workers_dev": true,
+  "preview_urls": true,
   "assets": {
     "directory": "./public"
   }
